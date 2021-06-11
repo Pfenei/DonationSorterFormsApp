@@ -1,0 +1,12 @@
+C:\Users\cupca\source\repos\J27C76\bin\Debug\J27C76.exe.config
+C:\Users\cupca\source\repos\J27C76\bin\Debug\J27C76.exe
+C:\Users\cupca\source\repos\J27C76\bin\Debug\J27C76.pdb
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.csprojAssemblyReference.cache
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.Form1.resources
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.Properties.Resources.resources
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.csproj.GenerateResource.cache
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.exe
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.pdb
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.Menu.resources
+C:\Users\cupca\source\repos\J27C76\obj\Debug\J27C76.DonationDisplay.resources
